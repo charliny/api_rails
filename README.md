@@ -1,24 +1,25 @@
-# README
+# Ruby on Rails API com TDD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+API rest Ruby on Rails with TDD.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version:
+≥ 2.3
+
+* Rails version:
+≥ 7
 
 * System dependencies
-
-* Configuration
+Rspec-rails
 
 * Database creation
+rails db:create
 
 * Database initialization
+rails db:migrate
 
 * How to run the test suite
+rake rspec
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# api_rails
