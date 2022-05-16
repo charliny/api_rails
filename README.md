@@ -10,16 +10,14 @@ Things you may want to cover:
 * Rails version:
 ≥ 7
 
-* System dependencies
+* System dependencies: 
 Rspec-rails
 
-* Database creation
+* Database creation: 
 rails db:create
 
-* Database initialization
+* Database initialization: 
 rails db:migrate
 
-* How to run the test suite
+* How to run the test suite: 
 rake rspec
-
-# api_rails
